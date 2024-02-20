@@ -1,2 +1,2 @@
 # mamba-json-formatter
-JSON formatter for mamba
+JSON formatter for [https://github.com/nestorsalceda/mamba](mamba)
