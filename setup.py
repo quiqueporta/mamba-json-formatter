@@ -1,11 +1,9 @@
 from setuptools import setup
 
-from mamba_json_formatter import get_version
-
 
 setup(
     name='mamba-json-formatter',
-    version=get_version(),
+    version='0.0.1',
     license='MIT/X11',
     author='Quique Porta',
     author_email='quiqueporta@gmail.com',
